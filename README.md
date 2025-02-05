@@ -75,10 +75,3 @@ For an in-depth understanding of the platform and its development, refer to the 
 
 This project was developed for the **All-Ukrainian competition "Eko - Tekhno Ukraina 2024"**, the national stage of the **International Science and Engineering Fair (Regeneron ISEF-2024)**.
 
-## Contribution
-
-We welcome contributions! Feel free to submit pull requests or open issues to suggest improvements and new features.
-
-## License
-
-This project is licensed under [Specify License].
