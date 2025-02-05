@@ -69,7 +69,7 @@ The primary goal of ECO-BLOG is to build an online forum dedicated to environmen
 
 ## Project Report
 
-For an in-depth understanding of the platform and its development, refer to the full scientific research document (in Ukrainian): **[ECO-BLOG Scientific Report](<link-to-scientific-report>)**
+For an in-depth understanding of the platform and its development, refer to the full scientific research document (in Ukrainian): **[ECO-BLOG Scientific Report](https://docs.google.com/document/d/1c4bIIJE03CizANDXIJNh-693LFKKYPOK9DyjY2yWLSQ/edit?usp=sharing)**
 
 ## Competition Participation
 
